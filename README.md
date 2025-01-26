@@ -15,6 +15,24 @@ Eu sou o Emidio Filho, uma mistura de paixões e formações! Tenho, 52 anos, so
 <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg" widht="40" height="40" />
 &nbsp;&nbsp;
 <img src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png" widht="60" height="40" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" widht="40" height="40" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" widht="40" height="40" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" widht="40" height="40" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" widht="40" height="40" />
+&nbsp;&nbsp;
+<img src="https://logos-world.net/wp-content/uploads/2024/10/Vercel-Logo.jpg" widht="60" height="40" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" widht="40" height="40" />
+
+          
+          
+          
+          
+          
 
 
           
